@@ -28,7 +28,7 @@ pigeo mode:
   - pigeo also get a web interface to copy/paste text and display result.
   - Activate Web mode : *python pigeo.py --mode web*
   - Example of execution:
-  ![Image of pigeo, shell mode,exemple of execution](https://github.com/Terrtia/text-geolocation-ail/blob/master/pigeo/pigeo-test_shell_mode.png)
+  ![Image of pigeo, web mode,exemple of execution](https://github.com/Terrtia/text-geolocation-ail/blob/master/pigeo/pigeo_web_mode_test.png)
 - Library mode:
   - pigeo can be use as a librairy when many documents are needed to be geolocated.
   - Code example:
