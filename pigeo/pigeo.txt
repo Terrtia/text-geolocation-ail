@@ -1,0 +1,55 @@
+Geolocation is the task of identifying a location for
+a user or document
+
+source model focused particularly at Twitter data.
+
+Both language use and social ties are geographically biased, and thus can be used to recover the location of a user or a document
+
+Previous research has shown that the geographical bias
+in language use can be used in supervised text-
+based geolocation models, to learn associations
+between textual features and different regions
+based on large-scale collections of geotagged doc-
+uments/tweets (Wing and Baldridge, 2011; Han
+et al., 2012; Maier and G ́omez-Rodrıguez, 2014).
+
+Given an unseen piece of text or the text content
+of a user’s timeline, the trained classifier can pre-
+dict the most likely location(s) associated with the
+input.
+
+Geographical bias in language use is most evident for countries with
+different languages (e.g. Germany versus China),
+but also exists for countries which share the same
+languages (e.g. in the spelling of centre vs. center
+in British vs. American English). The linguistic
+geographical bias is not limited to these obvious
+cases, however, and includes the use of toponyms,
+names of people, sport teams, and dialectal terms.
+
+The main idea is to learn the geographical distri-
+bution of a given word across different locations
+from training data, and use it to predict a location
+for a new user
+
+Writen in python 2.7
+
+pigeo mode: 
+	-Shell mode
+	-Web mode
+	-Library mode
+	-Twitter user geolocation
+	-Training a new model
+	-Network-based model
+
+
+don't reconize US and FR adresse
+
+
+
+
+
+
+
+
+	
