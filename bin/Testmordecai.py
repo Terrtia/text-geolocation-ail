@@ -7,7 +7,7 @@ import re
 geo = Geoparser()
 message = geo.geoparse("I traveled from Oxford to Ottawa.")'''
 
-    # regex ton find latitude and longitude
+# regex to find latitude and longitude
 reg_lat = re.compile(r'(\'lat\': \'([-\d.]+)\',)')
 reg_lon = re.compile(r'(\'lon\': \'([-\d.]+)\',)')
 
