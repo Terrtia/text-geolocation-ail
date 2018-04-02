@@ -1,11 +1,14 @@
 # text-geolocation-ail
-create a text geolocation module for AIL-FRAMEWORK
+Create a text geolocation module for AIL-FRAMEWORK
 
 https://github.com/CIRCL/AIL-framework
 
 ![Image of AIL-framework](https://github.com/CIRCL/AIL-framework/blob/master/doc/logo/logo-small.png?raw=true)
 
 This project try to use Mordecai
+
+AIL Module Source Code :
+[Text_geolocation.py](./bin/Text_geolocation.py)
 
 ## How text geolocation work 
 
