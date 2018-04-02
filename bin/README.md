@@ -1,12 +1,12 @@
 # Text Geolocation module
 
-we use mordecai document a text geoparsing tool written in python 3.
+We use mordecai, a text geoparsing tool written in python 3.
 
 Given a piece of text , it found their locations based on pre-trained models.
 
 Extract the place names from a piece of text, resolve them to the correct place, and return their coordinates and structured geographic information.
 
-### pigeo source code
+### mordecai source code
 
 https://github.com/openeventdata/mordecai
 
